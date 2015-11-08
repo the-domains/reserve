@@ -1,0 +1,23 @@
+name: reserve
+favicon: null
+layout_spectrum: 0.4630793002434075
+typography_spectrum: 0.19528181641362607
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.16829135245643556
+  lightness: 0.36625539092347026
+  saturation: 0.12707674549892545
+  rhythmicContrast: 0.03191081923432648
+purpose: []
